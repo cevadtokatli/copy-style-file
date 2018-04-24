@@ -1,0 +1,21 @@
+{
+  "name": "copy-style-file",
+  "version": "1.0.3",
+  "description": "Copies less and css files from source to dist with Webpack",
+  "keywords": ["webpack", "plugin", "style", "less", "css", "compile", "minify", "copy"],
+  "main": "index.js",
+  "author": {
+	"name": "Cevad Tokatli",
+	"email": "cevadtokatli@hotmail.com",
+	"website": "http://cevadtokatli.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cevadtokatli/copy-style-file"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "less": "^3.0.1",
+    "uglifycss": "0.0.29"
+  }
+}
