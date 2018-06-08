@@ -1,6 +1,6 @@
 # Copy Style File
 
-Copy style file copies less and css files from source to dist with Webpack. It compiles less to css, then minifies them if you are running in production mode.
+Copy style file copies less and css files from source to dist with Webpack. It compiles less to css, then minifies them if it is in production mode.
 
 **NPM**
 ```

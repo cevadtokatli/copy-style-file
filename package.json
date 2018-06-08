@@ -1,6 +1,6 @@
 {
   "name": "copy-style-file",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Copies less and css files from source to dist with Webpack",
   "keywords": ["webpack", "plugin", "style", "less", "css", "compile", "minify", "copy"],
   "main": "index.js",
